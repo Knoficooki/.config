@@ -1,0 +1,6 @@
+[submodule ".config-linux"]
+	path = .config-linux
+	url = https://github.com/Knoficooki/.config-linux.git/
+[submodule ".config-win"]
+	path = .config-win
+	url = https://github.com/Knoficooki/.config-win/
